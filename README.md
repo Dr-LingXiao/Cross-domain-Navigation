@@ -20,3 +20,4 @@
 
 
 ## Water-aerial
+1. Wu, T., Wang, R., Zhang, Y., Meng, Y., Xiang, Y., & Xiang, Z. (2024, July). ["Global path planning for amphibious unmanned vehicles with multiple constraints via deep reinforcement learning"](https://ieeexplore.ieee.org/abstract/document/10665661). In 2024 14th Asian Control Conference (ASCC) (pp. 1296-1301). IEEE.
