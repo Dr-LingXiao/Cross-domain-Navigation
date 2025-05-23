@@ -1,14 +1,17 @@
 # Cross-domain-Navigation
 
-## Land-air
+## aerial-ground
+
+### path planning
+1. **[An Improved Hierarchical Path Planning Method for Land-Air Amphibious Vehicle Based on Modal Characteristics](https://ieeexplore.ieee.org/abstract/document/10839833)** 
 
 
 
 
-## Land-water
+## ground-water
 
 
 
 
 
-## Water-air
+## Water-aerial
