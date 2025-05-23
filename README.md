@@ -3,6 +3,8 @@
 ## land
 1. Wen, C., Liang, J., Yuan, S., Huang, H., & Fang, Y. (2024). ["How secure are large language models (llms) for navigation in urban environments?"](https://arxiv.org/abs/2402.09546). arXiv preprint arXiv:2402.09546.
 
+2. Han, Y., Toth, C., & Yilmaz, A. (2025). ["Uas visual navigation in large and unseen environments via a meta agent"](https://arxiv.org/abs/2503.15781). arXiv preprint arXiv:2503.15781.
+
 ## aerial-ground
 
 ### path planning
