@@ -1,5 +1,8 @@
 # Cross-domain-Navigation
 
+## land
+1. Wen, C., Liang, J., Yuan, S., Huang, H., & Fang, Y. (2024). ["How secure are large language models (llms) for navigation in urban environments?"](https://arxiv.org/abs/2402.09546). arXiv preprint arXiv:2402.09546.
+
 ## aerial-ground
 
 ### path planning
