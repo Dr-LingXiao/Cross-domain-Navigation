@@ -13,6 +13,8 @@
 
 2. Yang, X., & Shao, L. (2025). ["Green and efficient path planning framework based on multi-granularity view fusion for amphibious unmanned aerial vehicles"](https://www.sciencedirect.com/science/article/pii/S0952197625006438). Engineering Applications of Artificial Intelligence, 151, 110643.
 
+3. Wang, B., Gao, X., & Tian, D. (2024, July). ["Path Planning and Tracking of Amphibious Vehicles Based on Improved A* Algorithm"](https://ieeexplore.ieee.org/abstract/document/10684930). In 2024 9th Asia-Pacific Conference on Intelligent Robot Systems (ACIRS) (pp. 45-49). IEEE.
+
 
 
 ## Water-aerial
