@@ -5,6 +5,8 @@
 ### path planning
 1. **Y. Wang, B. Xu, W. Fan, T. Xu, L. Liu and H. Sun, ["An Improved Hierarchical Path Planning Method for Land-Air Amphibious Vehicle Based on Modal Characteristics"](https://ieeexplore.ieee.org/abstract/document/10839833)**, 2024 IEEE International Conference on Unmanned Systems (ICUS), Nanjing, China, 2024, pp. 225-230.
 
+2. Jiang, W., Chen, B., Tu, F., & Wang, Y. (2024, November). ["Global Path Planning for Amphibious Robots Based on Improved Q-Learning"](https://ieeexplore.ieee.org/abstract/document/10865651). In 2024 China Automation Congress (CAC) (pp. 6546-6551). IEEE.
+
 
 
 
