@@ -5,6 +5,7 @@
 
 2. Han, Y., Toth, C., & Yilmaz, A. (2025). ["Uas visual navigation in large and unseen environments via a meta agent"](https://arxiv.org/abs/2503.15781). arXiv preprint arXiv:2503.15781.
 
+3. De Araujo, P. R. M., Mounier, E., Bader, Q., Dawson, E., Abdelaziz, S. I. K., Zekry, A., ... & Noureldin, A. (2025). ["The NavINST Dataset for Multi-Sensor Autonomous Navigation"](https://ieeexplore.ieee.org/abstract/document/10980246). IEEE Access.
 ## aerial-ground
 
 ### path planning
