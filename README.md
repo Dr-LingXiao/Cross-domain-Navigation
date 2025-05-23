@@ -17,6 +17,9 @@
 
 3. Wang, B., Gao, X., & Tian, D. (2024, July). ["Path Planning and Tracking of Amphibious Vehicles Based on Improved A* Algorithm"](https://ieeexplore.ieee.org/abstract/document/10684930). In 2024 9th Asia-Pacific Conference on Intelligent Robot Systems (ACIRS) (pp. 45-49). IEEE.
 
+4. Song, R., Chen, T., Pan, J., & Peng, Y. (2024, October). ["Adaptive Path Planning for Amphibious Vehicles Based on Enhanced Hybrid A-Star Algorithm"](https://ieeexplore.ieee.org/abstract/document/10862721). In 2024 8th International Conference on Electrical, Mechanical and Computer Engineering (ICEMCE) (pp. 1584-1589). IEEE.
+
+
 
 
 ## Water-aerial
