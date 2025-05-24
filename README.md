@@ -68,6 +68,56 @@
 33. Pehlivanoglu, Y. V., & Pehlivanoglu, P. (2021). ["An enhanced genetic algorithm for path planning of autonomous UAV in target coverage problems"](https://www.sciencedirect.com/science/article/pii/S1568494621007171). Applied Soft Computing, 112, 107796.
 
 34. Song, B., Wang, Z., & Zou, L. (2021). ["An improved PSO algorithm for smooth path planning of mobile robots using continuous high-degree Bezier curve"](https://www.sciencedirect.com/science/article/pii/S156849462030898X). Applied soft computing, 100, 106960.
+
+35. Zhang, L., Cai, Z., Yan, Y., Yang, C., & Hu, Y. (2024). ["Multi-agent policy learning-based path planning for autonomous mobile robots"](https://www.sciencedirect.com/science/article/pii/S0952197623018158). Engineering Applications of Artificial Intelligence, 129, 107631.
+
+36. Ali, H., Xiong, G., Haider, M. H., Tamir, T. S., Dong, X., & Shen, Z. (2023). ["Feature selection-based decision model for UAV path planning on rough terrains"](https://www.sciencedirect.com/science/article/pii/S0957417423012150). Expert Systems with Applications, 232, 120713.
+
+37. Li, Q., Lin, W., Liu, Z., & Prorok, A. (2021). ["Message-aware graph attention networks for large-scale multi-robot path planning"](https://ieeexplore.ieee.org/abstract/document/9424371). IEEE Robotics and Automation Letters, 6(3), 5533-5540.
+
+38. Liang, W., Lou, M., Chen, Z., Qin, H., Zhang, C., Cui, C., & Wang, Y. (2024). ["An enhanced ant colony optimization algorithm for global path planning of deep-sea mining vehicles"](https://www.sciencedirect.com/science/article/pii/S0029801824007522). Ocean Engineering, 301, 117415.
+
+39. Yao, P., Wu, K., & Lou, Y. (2022). ["Path planning for multiple unmanned surface vehicles using Glasius bio-inspired neural network with Hungarian algorithm"](https://ieeexplore.ieee.org/abstract/document/9966491). IEEE Systems Journal, 17(3), 3906-3917.
+
+40. Yan, S. (2021, May). ["Research on path planning of auv based on improved ant colony algorithm"](https://ieeexplore.ieee.org/abstract/document/9458959). In 2021 4th international conference on artificial intelligence and big data (ICAIBD) (pp. 121-124). IEEE.
+
+41. Guo, X., Peng, G., & Meng, Y. (2022). ["A modified Q-learning algorithm for robot path planning in a digital twin assembly system"](https://link.springer.com/article/10.1007/s00170-021-08597-9). The International Journal of Advanced Manufacturing Technology, 119(5), 3951-3961.
+
+42. Yang, L., Bi, J., & Yuan, H. (2023). ["Intelligent Path Planning for Mobile Robots Based on SAC Algorithm"](https://dc-china-simulation.researchcommons.org/journal/vol35/iss8/9/). Journal of System Simulation, 35(8), 1726-1736.
+
+43. Zammit, C., & Van Kampen, E. J. (2022). ["Comparison between A* and RRT algorithms for 3D UAV path planning"](https://www.worldscientific.com/doi/abs/10.1142/S2301385022500078). Unmanned Systems, 10(02), 129-146.
+
+44. Chen, L., Su, Y., Zhang, D., Leng, Z., Qi, Y., & Jiang, K. (2021, May). ["Research on path planning for mobile robots based on improved ACO"](https://ieeexplore.ieee.org/abstract/document/9486664). In 2021 36th Youth Academic Annual Conference of Chinese Association of Automation (YAC) (pp. 379-383). IEEE.
+
+45. Huang, Y. Y., Li, Z. W., Yang, C. H., & Huang, Y. M. (2023). ["Automatic path planning for spraying drones based on deep q-learning"](https://jit.ndhu.edu.tw/article/view/2894). Journal of Internet Technology, 24(3), 565-575.
+
+46. Sáez, R., Toratani, D., Mori, R., & Prats, X. (2023, October). ["Generation of RNP approach flight procedures with an RRT* path-planning algorithm"](https://ieeexplore.ieee.org/abstract/document/10311148). In 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC) (pp. 1-10). IEEE.
+
+47. Chen, Z., Min, L., Shao, X., & Zhao, Z. (2021). ["Obstacle avoidance path planning of bridge crane based on improved RRT algorithm"](https://dc-china-simulation.researchcommons.org/journal/vol33/iss8/10/). Journal of system simulation, 33(8), 1832-1838.
+
+48. Madridano, Á., Al-Kaff, A., Martín, D., & De La Escalera, A. (2021). ["Trajectory planning for multi-robot systems: Methods and applications"](https://www.sciencedirect.com/science/article/pii/S0957417421001019). Expert Systems with Applications, 173, 114660.
+
+49. Chaudhuri, R., Deb, S., & Shubham, S. (2022, April). ["Bio inspired approaches for indoor path navigation and spatial map formation by analysing depth data"](https://ieeexplore.ieee.org/abstract/document/9793071). In 2022 IEEE international conference on distributed computing and electrical circuits and electronics (ICDCECE) (pp. 1-6). IEEE.
+
+50. Li, J., Tinka, A., Kiesel, S., Durham, J. W., Kumar, T. S., & Koenig, S. (2021, May). ["Lifelong multi-agent path finding in large-scale warehouses"](https://ojs.aaai.org/index.php/AAAI/article/view/17344). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 13, pp. 11272-11281).
+
+51. Hou, Y., Ma, Z., & Pan, Z. (2023). ["Online multi-agent task assignment and path finding with kinematic constraint in the federated internet of things"](https://ieeexplore.ieee.org/abstract/document/10263613). IEEE Transactions on Consumer Electronics, 70(1), 2586-2595.
+
+52. Li, J., Ruml, W., & Koenig, S. (2021, May). ["Eecbs: A bounded-suboptimal search for multi-agent path finding"](https://ojs.aaai.org/index.php/AAAI/article/view/17466). In Proceedings of the AAAI conference on artificial intelligence (Vol. 35, No. 14, pp. 12353-12362).
+
+53. Yu, Y., Tang, J., Huang, J., Zhang, X., So, D. K. C., & Wong, K. K. (2021). ["Multi-objective optimization for UAV-assisted wireless powered IoT networks based on extended DDPG algorithm"](https://ieeexplore.ieee.org/abstract/document/9455139). IEEE Transactions on Communications, 69(9), 6361-6374.
+
+54. Huang, C., Mees, O., Zeng, A., & Burgard, W. (2023, May). ["Visual language maps for robot navigation"](https://ieeexplore.ieee.org/abstract/document/10160969). In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 10608-10615). IEEE.
+
+55. Zhu, K., & Zhang, T. (2021). ["Deep reinforcement learning based mobile robot navigation: A review"](https://ieeexplore.ieee.org/abstract/document/9409758). Tsinghua Science and Technology, 26(5), 674-691.
+
+56. Damani, M., Luo, Z., Wenzel, E., & Sartoretti, G. (2021). ["PRIMAL $ _2 $: Pathfinding via reinforcement and imitation multi-agent learning-lifelong"](https://ieeexplore.ieee.org/abstract/document/9366340). IEEE Robotics and Automation Letters, 6(2), 2666-2673.
+
+57. Liu, B., Jiang, Y., Zhang, X., Liu, Q., Zhang, S., Biswas, J., & Stone, P. (2023). ["Llm+ p: Empowering large language models with optimal planning proficiency"](https://arxiv.org/abs/2304.11477). arXiv preprint arXiv:2304.11477.
+
+58. Andreychuk, A., Yakovlev, K., Surynek, P., Atzmon, D., & Stern, R. (2022). ["Multi-agent pathfinding with continuous time. Artificial Intelligence"](https://www.sciencedirect.com/science/article/pii/S0004370222000029), 305, 103662.
+
+
 ## aerial-ground
 
 ### path planning
