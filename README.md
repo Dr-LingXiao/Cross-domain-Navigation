@@ -14,6 +14,8 @@
 6. Cheng, C., Sha, Q., He, B., & Li, G. (2021). ["Path planning and obstacle avoidance for AUV: A review"](https://www.sciencedirect.com/science/article/pii/S002980182100771X). Ocean Engineering, 235, 109355.
 
 7. Wang, J., Chi, W., Li, C., Wang, C., & Meng, M. Q. H. (2020). ["Neural RRT*: Learning-based optimal path planning"](https://ieeexplore.ieee.org/abstract/document/9037111). IEEE Transactions on Automation Science and Engineering, 17(4), 1748-1758.
+
+8. Yang, Y., Juntao, L., & Lingling, P. (2020). ["Multi‐robot path planning based on a deep reinforcement learning DQN algorithm"](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/trit.2020.0024). CAAI Transactions on Intelligence Technology, 5(3), 177-183.
 ## aerial-ground
 
 ### path planning
