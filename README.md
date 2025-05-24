@@ -18,6 +18,24 @@
 8. Yang, Y., Juntao, L., & Lingling, P. (2020). ["Multi‐robot path planning based on a deep reinforcement learning DQN algorithm"](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/trit.2020.0024). CAAI Transactions on Intelligence Technology, 5(3), 177-183.
 
 9. Miao, C., Chen, G., Yan, C., & Wu, Y. (2021). ["Path planning optimization of indoor mobile robot based on adaptive ant colony algorithm"](https://www.sciencedirect.com/science/article/pii/S0360835221001340). Computers & Industrial Engineering, 156, 107230.
+
+10. Chen, J., Du, C., Zhang, Y., Han, P., & Wei, W. (2021). ["A clustering-based coverage path planning method for autonomous heterogeneous UAVs"](https://ieeexplore.ieee.org/abstract/document/9385941). IEEE Transactions on Intelligent Transportation Systems, 23(12), 25546-25556.
+
+11. Shao, S., Peng, Y., He, C., & Du, Y. (2020). ["Efficient path planning for UAV formation via comprehensively improved particle swarm optimization"](https://www.sciencedirect.com/science/article/pii/S0019057819303532). ISA transactions, 97, 415-430.
+
+12. Li, Q., Gama, F., Ribeiro, A., & Prorok, A. (2020, October). ["Graph neural networks for decentralized multi-robot path planning"](https://ieeexplore.ieee.org/abstract/document/9341668). In 2020 IEEE/RSJ international conference on intelligent robots and systems (IROS) (pp. 11785-11792). IEEE.
+
+13. Zhang, D., Chen, C., & Zhang, G. (2024, March). ["AGV path planning based on improved A-star algorithm"](https://ieeexplore.ieee.org/abstract/document/10503919). In 2024 IEEE 7th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC) (Vol. 7, pp. 1590-1595). IEEE.
+
+14. Luo, Q., Wang, H., Zheng, Y., & He, J. (2020). ["Research on path planning of mobile robot based on improved ant colony algorithm"](https://link.springer.com/article/10.1007/s00521-019-04172-2). Neural Computing and Applications, 32, 1555-1566.
+
+15. Zhong, X., Tian, J., Hu, H., & Peng, X. (2020). ["Hybrid path planning based on safe A* algorithm and adaptive window approach for mobile robot in large-scale dynamic environment"](https://link.springer.com/article/10.1007/s10846-019-01112-z). Journal of Intelligent & Robotic Systems, 99(1), 65-77.
+
+16. Schmid, L., Pantic, M., Khanna, R., Ott, L., Siegwart, R., & Nieto, J. (2020). ["An efficient sampling-based method for online informative path planning in unknown environments"](https://ieeexplore.ieee.org/abstract/document/8968434). IEEE Robotics and Automation Letters, 5(2), 1500-1507.
+
+17. Phung, M. D., & Ha, Q. P. (2021). ["Safety-enhanced UAV path planning with spherical vector-based particle swarm optimization"](https://www.sciencedirect.com/science/article/pii/S1568494621002994). Applied Soft Computing, 107, 107376.
+
+18. Erke, S., Bin, D., Yiming, N., Qi, Z., Liang, X., & Dawei, Z. (2020). ["An improved A-Star based path planning algorithm for autonomous land vehicles"](https://journals.sagepub.com/doi/full/10.1177/1729881420962263). International Journal of Advanced Robotic Systems, 17(5), 1729881420962263.
 ## aerial-ground
 
 ### path planning
