@@ -12,6 +12,8 @@
 5. Liu, L., Wang, X., Yang, X., Liu, H., Li, J., & Wang, P. (2023). ["Path planning techniques for mobile robots: Review and prospect"](https://www.sciencedirect.com/science/article/pii/S095741742300756X). Expert Systems with Applications, 227, 120254.
 
 6. Cheng, C., Sha, Q., He, B., & Li, G. (2021). ["Path planning and obstacle avoidance for AUV: A review"](https://www.sciencedirect.com/science/article/pii/S002980182100771X). Ocean Engineering, 235, 109355.
+
+7. Wang, J., Chi, W., Li, C., Wang, C., & Meng, M. Q. H. (2020). ["Neural RRT*: Learning-based optimal path planning"](https://ieeexplore.ieee.org/abstract/document/9037111). IEEE Transactions on Automation Science and Engineering, 17(4), 1748-1758.
 ## aerial-ground
 
 ### path planning
