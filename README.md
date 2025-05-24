@@ -8,6 +8,8 @@
 3. De Araujo, P. R. M., Mounier, E., Bader, Q., Dawson, E., Abdelaziz, S. I. K., Zekry, A., ... & Noureldin, A. (2025). ["The NavINST Dataset for Multi-Sensor Autonomous Navigation"](https://ieeexplore.ieee.org/abstract/document/10980246). IEEE Access.
 
 4. Long, L., Wenfeng, N., Wenpeng, Z., Tianhe, X., Mowen, L., Jiang, N., & Zhang, W. (2025). ["High-Precision Multi-Source Fusion Navigation Solutions for Complex and Dynamic Urban Environments"](https://www.proquest.com/docview/3194640130?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals). Remote Sensing, 17(8), 1371.
+
+5. Liu, L., Wang, X., Yang, X., Liu, H., Li, J., & Wang, P. (2023). ["Path planning techniques for mobile robots: Review and prospect"](https://www.sciencedirect.com/science/article/pii/S095741742300756X). Expert Systems with Applications, 227, 120254.
 ## aerial-ground
 
 ### path planning
