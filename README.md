@@ -10,6 +10,8 @@
 4. Long, L., Wenfeng, N., Wenpeng, Z., Tianhe, X., Mowen, L., Jiang, N., & Zhang, W. (2025). ["High-Precision Multi-Source Fusion Navigation Solutions for Complex and Dynamic Urban Environments"](https://www.proquest.com/docview/3194640130?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals). Remote Sensing, 17(8), 1371.
 
 5. Liu, L., Wang, X., Yang, X., Liu, H., Li, J., & Wang, P. (2023). ["Path planning techniques for mobile robots: Review and prospect"](https://www.sciencedirect.com/science/article/pii/S095741742300756X). Expert Systems with Applications, 227, 120254.
+
+6. Cheng, C., Sha, Q., He, B., & Li, G. (2021). ["Path planning and obstacle avoidance for AUV: A review"](https://www.sciencedirect.com/science/article/pii/S002980182100771X). Ocean Engineering, 235, 109355.
 ## aerial-ground
 
 ### path planning
