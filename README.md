@@ -36,6 +36,24 @@
 17. Phung, M. D., & Ha, Q. P. (2021). ["Safety-enhanced UAV path planning with spherical vector-based particle swarm optimization"](https://www.sciencedirect.com/science/article/pii/S1568494621002994). Applied Soft Computing, 107, 107376.
 
 18. Erke, S., Bin, D., Yiming, N., Qi, Z., Liang, X., & Dawei, Z. (2020). ["An improved A-Star based path planning algorithm for autonomous land vehicles"](https://journals.sagepub.com/doi/full/10.1177/1729881420962263). International Journal of Advanced Robotic Systems, 17(5), 1729881420962263.
+
+19. Chang, L., Shan, L., Jiang, C., & Dai, Y. (2021). ["Reinforcement based mobile robot path planning with improved dynamic window approach in unknown environment"](https://link.springer.com/article/10.1007/s10514-020-09947-4). Autonomous robots, 45, 51-76.
+
+20. Wang, B., Liu, Z., Li, Q., & Prorok, A. (2020). ["Mobile robot path planning in dynamic environments through globally guided reinforcement learning"](https://ieeexplore.ieee.org/abstract/document/9205217). IEEE Robotics and Automation Letters, 5(4), 6932-6939.
+
+21. Vagale, A., Oucheikh, R., Bye, R. T., Osen, O. L., & Fossen, T. I. (2021). ["Path planning and collision avoidance for autonomous surface vehicles I: a review"](https://link.springer.com/article/10.1007/S00773-020-00787-6). Journal of Marine Science and Technology, 1-15.
+
+22. Kulathunga, G. (2022). ["A reinforcement learning based path planning approach in 3D environment"](https://www.sciencedirect.com/science/article/pii/S1877050922016891). Procedia Computer Science, 212, 152-160.
+
+23. Zhou, C., Gu, S., Wen, Y., Du, Z., Xiao, C., Huang, L., & Zhu, M. (2020). ["The review unmanned surface vehicle path planning: Based on multi-modality constraint"](https://www.sciencedirect.com/science/article/pii/S0029801820301177). Ocean Engineering, 200, 107043.
+
+24. Pan, Z., Zhang, C., Xia, Y., Xiong, H., & Shao, X. (2021). ["An improved artificial potential field method for path planning and formation control of the multi-UAV systems"](https://ieeexplore.ieee.org/abstract/document/9538804). IEEE Transactions on Circuits and Systems II: Express Briefs, 69(3), 1129-1133.
+
+25. Li, Y., Wei, W., Gao, Y., Wang, D., & Fan, Z. (2020). ["PQ-RRT*: An improved path planning algorithm for mobile robots"](https://www.sciencedirect.com/science/article/pii/S0957417420302499). Expert systems with applications, 152, 113425.
+
+26. Yan, C., Xiang, X., & Wang, C. (2020). ["Towards real-time path planning through deep reinforcement learning for a UAV in dynamic environments"](https://link.springer.com/article/10.1007/s10846-019-01073-3). Journal of Intelligent & Robotic Systems, 98, 297-309.
+
+27. Wu, L., Huang, X., Cui, J., Liu, C., & Xiao, W. (2023). ["Modified adaptive ant colony optimization algorithm and its application for solving path planning of mobile robot"](https://www.sciencedirect.com/science/article/pii/S0957417422024290). Expert Systems with Applications, 215, 119410.
 ## aerial-ground
 
 ### path planning
