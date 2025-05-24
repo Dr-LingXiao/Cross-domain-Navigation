@@ -54,6 +54,20 @@
 26. Yan, C., Xiang, X., & Wang, C. (2020). ["Towards real-time path planning through deep reinforcement learning for a UAV in dynamic environments"](https://link.springer.com/article/10.1007/s10846-019-01073-3). Journal of Intelligent & Robotic Systems, 98, 297-309.
 
 27. Wu, L., Huang, X., Cui, J., Liu, C., & Xiao, W. (2023). ["Modified adaptive ant colony optimization algorithm and its application for solving path planning of mobile robot"](https://www.sciencedirect.com/science/article/pii/S0957417422024290). Expert Systems with Applications, 215, 119410.
+
+28. Yu, Z., Si, Z., Li, X., Wang, D., & Song, H. (2022). ["A novel hybrid particle swarm optimization algorithm for path planning of UAVs"](https://ieeexplore.ieee.org/abstract/document/9795684). IEEE Internet of Things Journal, 9(22), 22547-22558.
+
+29. Chen, J., Zhang, Y., Wu, L., You, T., & Ning, X. (2021). ["An adaptive clustering-based algorithm for automatic path planning of heterogeneous UAVs"](https://ieeexplore.ieee.org/abstract/document/9641740). IEEE Transactions on Intelligent Transportation Systems, 23(9), 16842-16853.
+
+30. Chen, P., Pei, J., Lu, W., & Li, M. (2022). ["A deep reinforcement learning based method for real-time path planning and dynamic obstacle avoidance"](https://www.sciencedirect.com/science/article/pii/S0925231222005367). Neurocomputing, 497, 64-75.
+
+31. Yu, X., Jiang, N., Wang, X., & Li, M. (2023). ["A hybrid algorithm based on grey wolf optimizer and differential evolution for UAV path planning"](https://www.sciencedirect.com/science/article/pii/S0957417422023454). Expert Systems with Applications, 215, 119327.
+
+32. Chi, W., Ding, Z., Wang, J., Chen, G., & Sun, L. (2021). ["A generalized Voronoi diagram-based efficient heuristic path planning method for RRTs in mobile robots"](https://ieeexplore.ieee.org/abstract/document/9430686). IEEE Transactions on Industrial Electronics, 69(5), 4926-4937.
+
+33. Pehlivanoglu, Y. V., & Pehlivanoglu, P. (2021). ["An enhanced genetic algorithm for path planning of autonomous UAV in target coverage problems"](https://www.sciencedirect.com/science/article/pii/S1568494621007171). Applied Soft Computing, 112, 107796.
+
+34. Song, B., Wang, Z., & Zou, L. (2021). ["An improved PSO algorithm for smooth path planning of mobile robots using continuous high-degree Bezier curve"](https://www.sciencedirect.com/science/article/pii/S156849462030898X). Applied soft computing, 100, 106960.
 ## aerial-ground
 
 ### path planning
