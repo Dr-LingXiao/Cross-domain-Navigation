@@ -119,6 +119,8 @@
 
 59. Kong, X., Zhang, W., Hong, J., & Braunl, T. (2024). ["Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models"](https://arxiv.org/abs/2407.02220). arXiv preprint arXiv:2407.02220.
 
+60. Yang, C. F., Xu, H., Wu, T. L., Gao, X., Chang, K. W., & Gao, F. (2024). ["Planning as inpainting: A generative framework for realistic embodied path planning"](https://openreview.net/forum?id=Oxh2FNSZGf). In NeurIPS 2024 Workshop on Open-World Agents.
+
 
 ## aerial-ground
 
