@@ -117,6 +117,8 @@
 
 58. Andreychuk, A., Yakovlev, K., Surynek, P., Atzmon, D., & Stern, R. (2022). ["Multi-agent pathfinding with continuous time. Artificial Intelligence"](https://www.sciencedirect.com/science/article/pii/S0004370222000029), 305, 103662.
 
+59. Kong, X., Zhang, W., Hong, J., & Braunl, T. (2024). ["Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models"](https://arxiv.org/abs/2407.02220). arXiv preprint arXiv:2407.02220.
+
 
 ## aerial-ground
 
