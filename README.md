@@ -125,6 +125,19 @@
 
 62. Gan, Y., Zhang, B., Shao, J., Han, Z., Li, A., & Dai, X. (2024). ["Embodied intelligence: Bionic robot controller integrating environment perception, autonomous planning, and motion control"](https://ieeexplore.ieee.org/abstract/document/10472590). IEEE Robotics and Automation Letters.
 
+63. Xu, Z., Wu, K., Wen, J., Li, J., Liu, N., Che, Z., & Tang, J. (2024). ["A survey on robotics with foundation models: toward embodied ai"](https://arxiv.org/abs/2402.02385). arXiv preprint arXiv:2402.02385.
+
+64. Zhang, L., Wang, Y., Gu, H., Hamidizadeh, A., Zhang, Z., Liu, Y., ... & Hao, J. (2024). ["Et-plan-bench: Embodied task-level planning benchmark towards spatial-temporal cognition with foundation models"](https://arxiv.org/abs/2410.14682). arXiv preprint arXiv:2410.14682.
+
+65. Deng, H., Zhang, H., Ou, J., & Feng, C. (2024). ["Can llm be a good path planner based on prompt engineering? mitigating the hallucination for path planning"](https://arxiv.org/abs/2408.13184). arXiv preprint arXiv:2408.13184.
+
+66. Wu, Z., Wang, Z., Xu, X., Lu, J., & Yan, H. (2024). ["Embodied instruction following in unknown environments"](https://arxiv.org/abs/2406.11818). arXiv preprint arXiv:2406.11818.
+
+67. Chen, J., Lin, B., Xu, R., Chai, Z., Liang, X., & Wong, K. Y. K. (2024). ["Mapgpt: Map-guided prompting with adaptive path planning for vision-and-language navigation"](https://arxiv.org/abs/2401.07314). arXiv preprint arXiv:2401.07314.
+
+68. Wan, Z., Du, Y., Ibrahim, M., Qian, J., Jabbour, J., Zhao, Y., ... & Reddi, V. J. (2025, March). ["Reca: Integrated acceleration for real-time and efficient cooperative embodied autonomous agents"](https://dl.acm.org/doi/abs/10.1145/3676641.3716016). In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2 (pp. 982-997).
+
+
 
 ## aerial-ground
 
