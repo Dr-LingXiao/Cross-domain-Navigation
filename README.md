@@ -121,6 +121,10 @@
 
 60. Yang, C. F., Xu, H., Wu, T. L., Gao, X., Chang, K. W., & Gao, F. (2024). ["Planning as inpainting: A generative framework for realistic embodied path planning"](https://openreview.net/forum?id=Oxh2FNSZGf). In NeurIPS 2024 Workshop on Open-World Agents.
 
+61. Wan, Z., Du, Y., Ibrahim, M., Zhao, Y., Krishna, T., & Raychowdhury, A. (2024, October). ["Thinking and moving: An efficient computing approach for integrated task and motion planning in cooperative embodied ai systems"](https://dl.acm.org/doi/abs/10.1145/3676536.3698389). In Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design (pp. 1-7).
+
+62. Gan, Y., Zhang, B., Shao, J., Han, Z., Li, A., & Dai, X. (2024). ["Embodied intelligence: Bionic robot controller integrating environment perception, autonomous planning, and motion control"](https://ieeexplore.ieee.org/abstract/document/10472590). IEEE Robotics and Automation Letters.
+
 
 ## aerial-ground
 
